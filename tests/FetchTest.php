@@ -1,6 +1,8 @@
 <?php
 
-require_once("fetch.php");
+require_once("src/fetch.php");
+
+use JakubKrzemiński\Fetch;
 
 class FetchTest extends PHPUnit_Framework_TestCase {
  

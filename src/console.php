@@ -2,6 +2,8 @@
 
 require_once("fetch.php");
 
+use JakubKrzemiński\Fetch;
+
 
 if((sizeof($argv)) == 4){
 

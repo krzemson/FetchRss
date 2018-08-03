@@ -1,5 +1,7 @@
 <?php
 
+namespace JakubKrzemiński;
+
 class Fetch {
 
   public $link;
