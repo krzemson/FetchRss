@@ -1,5 +1,5 @@
 {
-    "name": "krzemson/FetchRss",
+    "name": "krzemson/fetch-rss",
     "description": "Importing RSS/ATOM XML data to csv",
     "require": {
         "php": "^5.3.3 || ^7.0",
