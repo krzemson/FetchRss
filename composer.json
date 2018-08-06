@@ -1,8 +1,7 @@
 {
-    "name": "krzemson/FetchRss",
-    "description": "Importing RSS/ATOM XML data to csv",
+    "name": "krzemson-fetch-rss",
+    "description": "Export RSS XML to CSV",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "phpunit/phpunit": "4.3.*"
+        "php": "^5.3.3 || ^7.0"
     }
 }
