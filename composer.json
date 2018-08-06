@@ -1,6 +1,9 @@
 {
     "name": "krzemson/fetch-rss",
-    "description": "Importing RSS/ATOM XML data to csv",
+    "description": "Export RSS/Atom XML to CSV",
+    "keywords": ["RSS, ATOM"],
+    "homepage": "https://github.com/krzemson/fetch-rss",
+    "license": "MIT",
     "require": {
         "php": ">=5.4.0"
     }
