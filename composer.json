@@ -1,6 +1,6 @@
 {
-    "name": "krzemson-fetch-rss",
-    "description": "Export RSS XML to CSV",
+    "name": "krzemson/fetch-rss",
+    "description": "Export RSS/Atom XML to CSV",
     "require": {
         "php": "^5.3.3 || ^7.0"
     }
