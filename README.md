@@ -25,7 +25,7 @@ Add the fetch-rss package to your `composer.json` file.
 Or via the command line in the root of your Laravel installation.
 
 ``` bash
-$ composer require krzemson/fetch-rss
+$ composer require "krzemson/fetch-rss:1.0.0"
 ```
 
 Usage
