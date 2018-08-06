@@ -17,7 +17,7 @@ Add the fetch-rss package to your `composer.json` file.
 ``` json
 {
     "require": {
-        "krzemson/fetch-rss"
+        "krzemson/fetch-rss": "1.0.0"
     }
 }
 ```
